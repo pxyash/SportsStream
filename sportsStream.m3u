@@ -1,0 +1,285 @@
+#EXTM3U
+
+# ==========================================
+# GROUP: Source 1
+# ==========================================
+#EXTINF:-1 group-title="Source 1",|AU| FOX Sports 501 HD
+http://iptvgo.cc:80/live/george/george1234/152324.ts
+#EXTINF:-1 group-title="Source 1",|AU| FOX Sports 502 HD
+http://iptvgo.cc:80/live/george/george1234/152323.ts
+#EXTINF:-1 group-title="Source 1",|AU| FOX Sports 503 HD
+http://iptvgo.cc:80/live/george/george1234/152322.ts
+#EXTINF:-1 group-title="Source 1",|AU| FOX Sports 504 HD
+http://iptvgo.cc:80/live/george/george1234/152321.ts
+#EXTINF:-1 group-title="Source 1",|AU| FOX Sports 505 HD
+http://iptvgo.cc:80/live/george/george1234/152320.ts
+#EXTINF:-1 group-title="Source 1",|AU| FOX Sports 506 HD
+http://iptvgo.cc:80/live/george/george1234/152319.ts
+#EXTINF:-1 group-title="Source 1",|AU| FOX Sports 507 HD
+http://iptvgo.cc:80/live/george/george1234/152318.ts
+#EXTINF:-1 group-title="Source 1",UK: Sky Sports Cricket FHD 50fps
+http://iptvgo.cc:80/live/george/george1234/276930.ts
+#EXTINF:-1 group-title="Source 1",UK: Sky Sports Cricket HD
+http://iptvgo.cc:80/live/george/george1234/276929.ts
+#EXTINF:-1 group-title="Source 1",UK: Sky Sports Cricket SD
+http://iptvgo.cc:80/live/george/george1234/276928.ts
+#EXTINF:-1 group-title="Source 1",UK: Sky Sports Cricket FHD HEVC 25fps
+http://iptvgo.cc:80/live/george/george1234/276829.ts
+#EXTINF:-1 group-title="Source 1",Willow Cricket
+http://iptvgo.cc:80/live/george/george1234/276832.ts
+#EXTINF:-1 group-title="Source 1",SS Cricket
+http://iptvgo.cc:80/live/george/george1234/62946.ts
+#EXTINF:-1 group-title="Source 1",MY | Astro Cricket FHD
+http://iptvgo.cc:80/live/george/george1234/691776.ts
+#EXTINF:-1 group-title="Source 1",MY | Astro Cricket HD
+http://iptvgo.cc:80/live/george/george1234/691775.ts
+#EXTINF:-1 group-title="Source 1",Astro Cricket HD TH
+http://iptvgo.cc:80/live/george/george1234/663950.ts
+#EXTINF:-1 group-title="Source 1",Sky Sports Cricket HD
+http://iptvgo.cc:80/live/george/george1234/324779.ts
+#EXTINF:-1 group-title="Source 1",Astro Cricket HD
+http://iptvgo.cc:80/live/george/george1234/324778.ts
+#EXTINF:-1 group-title="Source 1",Super Sports Cricket HD
+http://iptvgo.cc:80/live/george/george1234/324777.ts
+#EXTINF:-1 group-title="Source 1",Willow Cricket HD
+http://iptvgo.cc:80/live/george/george1234/324776.ts
+#EXTINF:-1 group-title="Source 1",Willow Cricket Extra HD
+http://iptvgo.cc:80/live/george/george1234/324775.ts
+#EXTINF:-1 group-title="Source 1",Cricket 01
+http://iptvgo.cc:80/live/george/george1234/324774.ts
+#EXTINF:-1 group-title="Source 1",Cricket 02
+http://iptvgo.cc:80/live/george/george1234/324773.ts
+#EXTINF:-1 group-title="Source 1",Cricket 03
+http://iptvgo.cc:80/live/george/george1234/324772.ts
+#EXTINF:-1 group-title="Source 1",Cricket 04
+http://iptvgo.cc:80/live/george/george1234/324771.ts
+#EXTINF:-1 group-title="Source 1",Cricket 05
+http://iptvgo.cc:80/live/george/george1234/324770.ts
+#EXTINF:-1 group-title="Source 1",Cricket 06
+http://iptvgo.cc:80/live/george/george1234/324769.ts
+#EXTINF:-1 group-title="Source 1",Cricket 07
+http://iptvgo.cc:80/live/george/george1234/324768.ts
+#EXTINF:-1 group-title="Source 1",Cricket 08
+http://iptvgo.cc:80/live/george/george1234/324767.ts
+#EXTINF:-1 group-title="Source 1",Cricket 09
+http://iptvgo.cc:80/live/george/george1234/324766.ts
+#EXTINF:-1 group-title="Source 1",Cricket 10
+http://iptvgo.cc:80/live/george/george1234/324765.ts
+#EXTINF:-1 group-title="Source 1",Sky Sports Cricket FHD UK
+http://iptvgo.cc:80/live/george/george1234/709399.ts
+#EXTINF:-1 group-title="Source 1",Sky Sports Cricket HD UK
+http://iptvgo.cc:80/live/george/george1234/709398.ts
+#EXTINF:-1 group-title="Source 1",ZA | SS Cricket
+http://iptvgo.cc:80/live/george/george1234/279612.ts
+#EXTINF:-1 group-title="Source 1",IN: Star Sports 1 FHD
+http://iptvgo.cc:80/live/george/george1234/694065.ts
+#EXTINF:-1 group-title="Source 1",IN: Star Sports 1 Hindi FHD
+http://iptvgo.cc:80/live/george/george1234/694064.ts
+#EXTINF:-1 group-title="Source 1",IN: Star Sports 2 FHD
+http://iptvgo.cc:80/live/george/george1234/694063.ts
+#EXTINF:-1 group-title="Source 1",IN: Star Sports Select 1 FHD
+http://iptvgo.cc:80/live/george/george1234/694062.ts
+#EXTINF:-1 group-title="Source 1",IN: Star Sports Select 2 FHD
+http://iptvgo.cc:80/live/george/george1234/694061.ts
+#EXTINF:-1 group-title="Source 1",IN | Sport: Star Sports 1 Hindi HD
+http://iptvgo.cc:80/live/george/george1234/694060.ts
+#EXTINF:-1 group-title="Source 1",IN | Sport: Star Sports 1 Eng HD
+http://iptvgo.cc:80/live/george/george1234/694059.ts
+#EXTINF:-1 group-title="Source 1",IN | Sport: Star Sports 2 Eng HD
+http://iptvgo.cc:80/live/george/george1234/694058.ts
+#EXTINF:-1 group-title="Source 1",IN: Zee Classic
+http://iptvgo.cc:80/live/george/george1234/694057.ts
+#EXTINF:-1 group-title="Source 1",IN | Sport: Star Sports Select 1 Eng HD
+http://iptvgo.cc:80/live/george/george1234/694056.ts
+#EXTINF:-1 group-title="Source 1",IN | Sport: Star Sports Select 2 Eng HD
+http://iptvgo.cc:80/live/george/george1234/694055.ts
+#EXTINF:-1 group-title="Source 1",IN: Sony Sports Ten 1
+http://iptvgo.cc:80/live/george/george1234/694053.ts
+#EXTINF:-1 group-title="Source 1",IN: SONY SPORTS TEN 1 FHD
+http://iptvgo.cc:80/live/george/george1234/694051.ts
+#EXTINF:-1 group-title="Source 1",IN: Sony Sports Ten 2
+http://iptvgo.cc:80/live/george/george1234/694050.ts
+#EXTINF:-1 group-title="Source 1",IN: Sony Sports Ten 3
+http://iptvgo.cc:80/live/george/george1234/694048.ts
+
+# ==========================================
+# GROUP: Source 2
+# ==========================================
+#EXTINF:-1 group-title="Source 2",AU | FOX Sports 501 HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/152324.ts
+#EXTINF:-1 group-title="Source 2",AU | FOX Sports 502 HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/152323.ts
+#EXTINF:-1 group-title="Source 2",AU | FOX Sports 503 HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/152322.ts
+#EXTINF:-1 group-title="Source 2",AU | FOX Sports 504 HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/152321.ts
+#EXTINF:-1 group-title="Source 2",AU | FOX Sports 505 HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/152320.ts
+#EXTINF:-1 group-title="Source 2",AU | FOX Sports 506 HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/152319.ts
+#EXTINF:-1 group-title="Source 2",AU | FOX Sports 507 HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/152318.ts
+#EXTINF:-1 group-title="Source 2",MY | Astro Cricket FHD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/691776.ts
+#EXTINF:-1 group-title="Source 2",MY | Astro Cricket HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/691775.ts
+#EXTINF:-1 group-title="Source 2",Astro Cricket HD TH
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/663950.ts
+#EXTINF:-1 group-title="Source 2",Sky Sports Cricket HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/324779.ts
+#EXTINF:-1 group-title="Source 2",Astro Cricket HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/324778.ts
+#EXTINF:-1 group-title="Source 2",Super Sports Cricket HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/324777.ts
+#EXTINF:-1 group-title="Source 2",Willow Cricket HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/324776.ts
+#EXTINF:-1 group-title="Source 2",Willow Cricket Extra HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/324775.ts
+#EXTINF:-1 group-title="Source 2",Cricket 01
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/324774.ts
+#EXTINF:-1 group-title="Source 2",Cricket 02
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/324773.ts
+#EXTINF:-1 group-title="Source 2",Cricket 03
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/324772.ts
+#EXTINF:-1 group-title="Source 2",Cricket 04
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/324771.ts
+#EXTINF:-1 group-title="Source 2",Cricket 05
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/324770.ts
+#EXTINF:-1 group-title="Source 2",Cricket 06
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/324769.ts
+#EXTINF:-1 group-title="Source 2",Cricket 07
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/324768.ts
+#EXTINF:-1 group-title="Source 2",Cricket 08
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/324767.ts
+#EXTINF:-1 group-title="Source 2",Cricket 09
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/324766.ts
+#EXTINF:-1 group-title="Source 2",Cricket 10
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/324765.ts
+#EXTINF:-1 group-title="Source 2",Willow Sports
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/829387.ts
+#EXTINF:-1 group-title="Source 2",IN: Star Sports 1 FHD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/694065.ts
+#EXTINF:-1 group-title="Source 2",IN: Star Sports 1 Hindi FHD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/694064.ts
+#EXTINF:-1 group-title="Source 2",IN: Star Sports 2 FHD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/694063.ts
+#EXTINF:-1 group-title="Source 2",IN: Star Sports Select 1 FHD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/694062.ts
+#EXTINF:-1 group-title="Source 2",IN: Star Sports Select 2 FHD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/694061.ts
+#EXTINF:-1 group-title="Source 2",IN | Sport: Star Sports 1 Hindi HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/694060.ts
+#EXTINF:-1 group-title="Source 2",IN | Sport: Star Sports 1 Eng HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/694059.ts
+#EXTINF:-1 group-title="Source 2",IN | Sport: Star Sports 2 Eng HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/694058.ts
+#EXTINF:-1 group-title="Source 2",IN: Zee Classic
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/694057.ts
+#EXTINF:-1 group-title="Source 2",IN | Sport: Star Sports Select 1 Eng HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/694056.ts
+#EXTINF:-1 group-title="Source 2",IN | Sport: Star Sports Select 2 Eng HD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/694055.ts
+#EXTINF:-1 group-title="Source 2",IN: Sony Sports Ten 1
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/694053.ts
+#EXTINF:-1 group-title="Source 2",IN: SONY SPORTS TEN 1 FHD
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/694051.ts
+#EXTINF:-1 group-title="Source 2",IN: Sony Sports Ten 2
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/694050.ts
+#EXTINF:-1 group-title="Source 2",IN: Sony Sports Ten 3
+http://iptvgo.cc:80/live/dickcarson2004@sbcglobal.net/1322974173/694048.ts
+
+# ==========================================
+# GROUP: Source 3
+# ==========================================
+#EXTINF:-1 group-title="Source 3",FOX SPORTS 501 FHD (AU)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/83174.ts
+#EXTINF:-1 group-title="Source 3",FOX SPORTS 501 HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1405863.ts
+#EXTINF:-1 group-title="Source 3",FOX SPORTS 501 UHD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1274758.ts
+#EXTINF:-1 group-title="Source 3",ASTRO CRICKET HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1404519.ts
+#EXTINF:-1 group-title="Source 3",WILLOW CRICKET HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1404524.ts
+#EXTINF:-1 group-title="Source 3",WILLOW CRICKET EXTRA HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1404523.ts
+#EXTINF:-1 group-title="Source 3",SKY SPORTS CRICKET FHD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1404520.ts
+#EXTINF:-1 group-title="Source 3",SKY SPORTS CRICKET HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1404521.ts
+#EXTINF:-1 group-title="Source 3",SKY SPORTS CRICKET HEVC
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/980432.ts
+#EXTINF:-1 group-title="Source 3",SKY SPORTS CRICKET SD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/348308.ts
+#EXTINF:-1 group-title="Source 3",SKY SPORTS CRICKET HD (UK)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/348307.ts
+#EXTINF:-1 group-title="Source 3",SUPERSPORT CRICKET HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/348289.ts
+#EXTINF:-1 group-title="Source 3",SUPERSPORT CRICKET HD (Alternate)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1274762.ts
+#EXTINF:-1 group-title="Source 3",CRICKET GOLD (STIRR)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1404525.ts
+#EXTINF:-1 group-title="Source 3",CRICKET GOLD (PLEX)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1404526.ts
+#EXTINF:-1 group-title="Source 3",SPORTS 18 UK FHD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090653.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS 1 ENGLISH FHD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090635.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS 1 HINDI FHD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090636.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS 1 TELUGU FHD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090652.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS 2 FHD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090637.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS 3 FHD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090638.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS SELECT 1 FHD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090639.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS SELECT 2 HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090640.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS TAMIL FHD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090646.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS 1 ENGLISH FHD (VIP)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1404528.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS 1 HINDI FHD (VIP)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1404529.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS 1 TELUGU FHD (VIP)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1404535.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS 2 FHD (VIP)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1404530.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS 3 FHD (VIP)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1404531.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS SELECT 1 FHD (VIP)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1404532.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS SELECT 2 HD (VIP)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1404533.ts
+#EXTINF:-1 group-title="Source 3",STAR SPORTS TAMIL FHD (VIP)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1404534.ts
+#EXTINF:-1 group-title="Source 3",A-SPORTS HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1292018.ts
+#EXTINF:-1 group-title="Source 3",PTV SPORTS HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1274771.ts
+#EXTINF:-1 group-title="Source 3",SONY TEN 1 HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090641.ts
+#EXTINF:-1 group-title="Source 3",SONY TEN 2 HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090642.ts
+#EXTINF:-1 group-title="Source 3",SONY TEN 3 HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090643.ts
+#EXTINF:-1 group-title="Source 3",SONY TEN 4 HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/510281.ts
+#EXTINF:-1 group-title="Source 3",SONY SPORTS TEN 5 FHD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090634.ts
+#EXTINF:-1 group-title="Source 3",TEN SPORTS HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1292016.ts
+#EXTINF:-1 group-title="Source 3",TEN 1 HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090641.ts
+#EXTINF:-1 group-title="Source 3",TEN 2 HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090642.ts
+#EXTINF:-1 group-title="Source 3",TEN 3 HD
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090643.ts
+#EXTINF:-1 group-title="Source 3",WILLOW CRICKET HD (Alternate)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1090644.ts
+#EXTINF:-1 group-title="Source 3",SKY SPORTS CRICKET HD (Alternate)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1274763.ts
+#EXTINF:-1 group-title="Source 3",ASTRO CRICKET HD (Alternate)
+http://13569-cdn8.ovh/live/3X7JBPK/X9U4LF6/1341119.ts
